@@ -38,4 +38,4 @@ However, the equation is not directly provided to the model. It learns the relat
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/parinitsinha1971-crypto/AI-Projects.git
